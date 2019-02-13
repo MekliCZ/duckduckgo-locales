@@ -2308,6 +2308,10 @@ msgstr "Notícies"
 msgid "News Articles"
 msgstr "Notícies"
 
+#, fuzzy
+msgid "News Articles."
+msgstr "Notícies"
+
 #. Click "Reset All Settings" first on the settings page - http://i.imgur.com/3ucg9el.png
 #. Then - http://i.imgur.com/1wBBIxW.png
 msgid "No"

@@ -2250,6 +2250,10 @@ msgstr "新聞"
 msgid "News Articles"
 msgstr "新聞報導"
 
+#, fuzzy
+msgid "News Articles."
+msgstr "新聞報導"
+
 #. Click "Reset All Settings" first on the settings page - http://i.imgur.com/3ucg9el.png
 #. Then - http://i.imgur.com/1wBBIxW.png
 msgid "No"
