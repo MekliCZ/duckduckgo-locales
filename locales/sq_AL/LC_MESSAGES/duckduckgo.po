@@ -2283,6 +2283,9 @@ msgstr "Lajme"
 msgid "News Articles"
 msgstr "Artikuj Lajmesh"
 
+msgid "News Articles."
+msgstr ""
+
 #. Click "Reset All Settings" first on the settings page - http://i.imgur.com/3ucg9el.png
 #. Then - http://i.imgur.com/1wBBIxW.png
 msgid "No"

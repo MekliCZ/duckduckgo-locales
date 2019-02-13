@@ -2295,6 +2295,9 @@ msgstr "ニュース"
 msgid "News Articles"
 msgstr "新しい記事"
 
+msgid "News Articles."
+msgstr ""
+
 #. Click "Reset All Settings" first on the settings page - http://i.imgur.com/3ucg9el.png
 #. Then - http://i.imgur.com/1wBBIxW.png
 msgid "No"
@@ -3731,7 +3734,9 @@ msgstr "あなたを追跡しない検索エンジン。%sさらに詳しく%s"
 
 msgctxt "SERP footer content"
 msgid "The world needs an alternative to the collect-it-all business model."
-msgstr "世界は、ありとあらゆる情報を収集する(Collect It All)ビジネスモデルに代わるものを必要としています。"
+msgstr ""
+"世界は、ありとあらゆる情報を収集する(Collect It All)ビジネスモデルに代わるも"
+"のを必要としています。"
 
 #. Title for the theme menu:
 #. https://duck.co/media/files/theme.png
